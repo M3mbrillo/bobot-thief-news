@@ -1,0 +1,15 @@
+
+[nota]=[%%%-NOTA-%%%]
+
+[%%%-FIRMA-%%%]
+
+[%%%-BAJADA-%%%]
+
+[%%%-IMAGEN_1-%%%]
+[%%%-EPIGRAFE_1-%%%]
+
+[%%%-IMAGEN_2-%%%]
+[%%%-EPIGRAFE_2-%%%]
+
+[%%%-IMAGEN_3-%%%]
+[%%%-EPIGRAFE_3-%%%]

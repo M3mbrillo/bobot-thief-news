@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Apache httpclient-4.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desarollo/Recursos/java apache-httpcomponents-client-4.5/lib/httpclient-4.5.jar!/" />
+      <root url="file://$USER_HOME$/Desarollo/Recursos/java apache-httpcomponents-client-4.5/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desarollo/Recursos/java apache-httpcomponents-client-4.5/lib" recursive="false" />
+  </library>
+</component>
